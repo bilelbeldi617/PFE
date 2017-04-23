@@ -10,4 +10,8 @@
 function test(){
 
 }
+
+function mouheb(){
+    echo("mouheb");
+}
 ?>
