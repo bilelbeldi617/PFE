@@ -6,4 +6,8 @@
     function chaouki(){
         echo("chaouki");
     }
+
+function test(){
+
+}
 ?>
