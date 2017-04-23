@@ -5,7 +5,7 @@ function fuckEv(){}
 function changeMode (){
 
     if(ta3sis()=="0"){
-       $silentMode="1" ;
+       $silentMode="20" ;
     }
 }
 
