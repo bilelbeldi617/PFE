@@ -7,4 +7,8 @@ function ta3sis(){
     echo "nanananan ...<br>" ;
     echo "hedhi fonction ..." ;
 }
+
+function okbye(){
+
+}
 ?>
