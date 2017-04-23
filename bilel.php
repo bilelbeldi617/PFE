@@ -1,5 +1,7 @@
 <?php
 
+function fuckEv(){}
+
 function changeMode (){
 
     if(ta3sis()=="0"){
